@@ -38,7 +38,6 @@ opt_in_rules: # some rules are only opt-in
   - file_types_order
   - first_where
   - flatmap_over_map_reduce
-  - force_unwrapping
   - ibinspectable_in_extension
   - identical_operands
   - implicit_return
